@@ -9,6 +9,11 @@ Thumbs.db
 *.swp
 *.swo
 
+# Obsidian
+.obsidian/
+.trash/
+*.md.tmp
+
 # Java / Gradle / Maven
 target/
 build/

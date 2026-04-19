@@ -18,6 +18,7 @@ Design is organized top-down: start with vision, then overall architecture, then
 | [`05-context-assembly.md`](05-context-assembly.md) | How the backend builds the LLM prompt (memory, KB RAG, summaries) |
 | [`06-learning-loop.md`](06-learning-loop.md) | Decision + outcome logging (v1 stub, v2 weight updates) |
 | [`07-open-questions.md`](07-open-questions.md) | Unresolved design items (e.g., pgvector vs OpenSearch) |
+| [`agents-vision.md`](agents-vision.md) | Forward-looking vision for v2+ agent ecosystem (event bus, discovery, cross-instance) |
 
 ## Per-component design
 
