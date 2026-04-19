@@ -1,0 +1,52 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Java / Gradle / Maven
+target/
+build/
+out/
+.gradle/
+*.class
+*.jar
+*.war
+hs_err_pid*
+
+# Android
+local.properties
+*.apk
+*.aab
+.cxx/
+captures/
+
+# Python (for future scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (if any)
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Secrets / local config
+.env
+.env.*
+!.env.example
+secrets/
+*.key
+*.pem
+
+# Local data
+data/
+tmp/
